@@ -114,7 +114,11 @@ Adding this set of governing rules will allow us to be more transparent as to wh
 
 - Who is the governing body?
 
-A grant is being proposed for DeWi to review and potentially fund to help establish a third party governing body. This grant will be used to fund the review body, the submission system, and the deny list management. This is a draft for the rules, the HIP for the governing body will be added later. 
+A grant request will be proposed to potentially fund and establish a third party governing body. 
+
+- Where do the fees for appeals go?
+
+Reviewing a hotspot that's added to a deny list is time consuming and the Helium team is currently overloaded with addition and removal requests. These fees will help fund a team of experts who will be motivated to review changes moving forward.
 
 # Deployment Impact
 [deployment-impact]: #deployment-impact
