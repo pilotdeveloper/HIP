@@ -28,7 +28,7 @@ This will actively be communicated in all channels including github, discord, re
 # Detailed Explanation
 [detailed-explanation]: #detailed-explanation
 
-For the following section, we will break out some of the reasons as to why one will be added to the deny list. 
+For the following section, we will break out some of the reasons as to why one will be added to the deny list. All fees below are estimates and may change if this HIP goes further than a PR in Proslasher's git. 
 
 ## Deny List Activities
 
@@ -43,7 +43,7 @@ Packet manipulation is when a user is modifying LoRaWan packet data such as RSSI
 
 **Appealable:** Yes - after sixty days and with demonstration that the firmware has been corrected to the factory settings, the owner may appeal with the appeal process. The owner must pay for the review ($50 paid in HNT) and will be on probation for life after removal. 
 
-**Two Strikes** If an owner is caught doing this again after the appeal was approved, the hotspot will be permanently denied and never removed. 
+**Two Strikes:** If an owner is caught doing this again after the appeal was approved, the hotspot will be permanently denied and never removed. 
 
 
 ### 2. Farming
@@ -56,7 +56,7 @@ Farming is defined as someone intentionally running a large number of hotspots t
 
 **Appealable:** Yes - after fourty-five days and with demonstration that the hotspots have been deployed in physical locations. The appeal process will require a full length video or call with someone before the appeal will be considreded. The owner must pay for the review ($50 paid in HNT per hotspot) and will be on probation for life after removal. 
 
-**Two Strikes** If an owner is caught doing this again after the appeal was approved, all participating hotspots will be permanently denied and never removed. 
+**Two Strikes:** If an owner is caught doing this again after the appeal was approved, all participating hotspots will be permanently denied and never removed. 
 
 ### 3. Replaying packets / Packet Flooding
 **Severity:** Medium-High
@@ -70,7 +70,7 @@ This attack occurs when miner A hears a packet and sends it to miner B. This att
 
 **Appealable:** Yes - after thirty days and with demonstration that the hotspots have all been restored. The owner must pay for the review ($50 paid in HNT per hotspot) and will be on probation for life after removal. 
 
-**Two Strikes** If an owner is caught doing this again after the appeal was approved, all participating hotspots will be permanently deny listed and never removed. 
+**Two Strikes:** If an owner is caught doing this again after the appeal was approved, all participating hotspots will be permanently deny listed and never removed. 
 
 
 ### 4. Improper assertion
@@ -81,11 +81,11 @@ A hotspot should be considered Improperly Asserted if a hotspot is asserted more
 
 *Note on detection:* This may be user submitted; however, the actual hotspot's location must be demonstrated using mapping techniques and RSSI calculations. 
 
-**Punishment** Public accusation of incorrect assertion with 30 days for the owner to respond. If no actions are taken, hotspot will be added to the deny list.
+**Punishment:** Public accusation of incorrect assertion with 30 days for the owner to respond. If no actions are taken, hotspot will be added to the deny list.
 
-**Appealable** If the owner acknowledges the accusation and relocates and/or reasserts the hotspot, they will not need to appeal this (and the case will be dropped). If the hotspot is added due to lack of response, the case may be appealed for a $20 fee (paid in the HNT equivalent). 
+**Appealable:** If the owner acknowledges the accusation and relocates and/or reasserts the hotspot, they will not need to appeal this (and the case will be dropped). If the hotspot is added due to lack of response, the case may be appealed for a $20 fee (paid in the HNT equivalent). 
 
-**Three Strikes** If the same hotspot is caught doing this more than three times, the hotspot will be added to the deny list permanently.
+**Three Strikes:** If the same hotspot is caught doing this more than three times, the hotspot will be added to the deny list permanently.
 
 **Other note:** This violation is considered lower as long as a hotspot is participating in valid PoC activity by beaconing and witnessing within a reasonable tolerance. The severity is higher if a hotspot is receiving abnormally high amounts of traffic. 
 
